@@ -41,6 +41,12 @@ categories like Beauty and Apparel drive volume up but pull the average
 basket size down slightly. This is healthy — more customers buying, 
 not existing customers spending less.
 
+To distinguish whether AOV rose because of pricier items or larger 
+carts, we would compare average unit price versus average items per 
+order over time. Here, the September spike aligns with electronics 
+purchasing — high unit price, low quantity — suggesting it is item 
+price driving AOV, not cart size.
+
 ---
 
 ## Category Performance
